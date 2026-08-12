@@ -72,11 +72,13 @@ Site institucional desenvolvido para psicóloga, com apresentação profissional
 
 Estou constantemente desenvolvendo novos projetos, aprimorando minhas habilidades e explorando novas tecnologias para criar soluções web cada vez melhores.
 
-## 📫 Contato
+📫 Contato
 
-🌐 **GitHub:** [Allangtec](https://github.com/Allangtec)
+🌐 GitHub: Allangtec
 
-💼 **LinkedIn:** [linkedin.com/in/allansilvabarboza](https://www.linkedin.com/in/allansilvabarboza/)
+💼 LinkedIn: linkedin.com/in/allansilvabarboza
+
+📱 WhatsApp: Falar comigo pelo WhatsApp
 
 ---
 
