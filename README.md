@@ -4,6 +4,8 @@
 
 Desenvolvedor focado na criação de **sistemas web, sites, APIs, integrações e automações**, buscando desenvolver soluções práticas, eficientes e escaláveis para diferentes necessidades.
 
+🌐 **[Conheça a GTi Soluções](https://gti.infro.com.br/)** · 💼 **[Ver Portfólio](https://gti.infro.com.br/#portfolio)** · 📱 **[Falar pelo WhatsApp](https://wa.me/5561999118365)**
+
 ## 🚀 Sobre mim
 
 * 💻 Desenvolvimento de sistemas web
@@ -68,6 +70,18 @@ Site institucional desenvolvido para psicóloga, com apresentação profissional
 * 🗄️ Sistemas com banco de dados
 * 🐳 Ambientes e aplicações com Docker
 
+## 🌐 GTi Soluções
+
+A **GTi Soluções** é minha plataforma profissional para desenvolvimento de sites, sistemas web e soluções sob medida.
+
+Atendo projetos desde sites institucionais até sistemas, painéis administrativos, integrações, automações e infraestrutura.
+
+🌐 **[Acessar GTi Soluções](https://gti.infro.com.br/)**
+
+💼 **[Conhecer o portfólio](https://gti.infro.com.br/#portfolio)**
+
+📋 **[Conhecer serviços e planos](https://gti.infro.com.br/#planos)**
+
 ## 📊 GitHub
 
 Estou constantemente desenvolvendo novos projetos, aprimorando minhas habilidades e explorando novas tecnologias para criar soluções web cada vez melhores.
@@ -77,6 +91,8 @@ Estou constantemente desenvolvendo novos projetos, aprimorando minhas habilidade
 🌐 **GitHub:** [Allangtec](https://github.com/Allangtec)
 
 💼 **LinkedIn:** [linkedin.com/in/allansilvabarboza](https://www.linkedin.com/in/allansilvabarboza/)
+
+🌐 **GTi Soluções:** [gti.infro.com.br](https://gti.infro.com.br/)
 
 📱 **WhatsApp:** [Falar comigo pelo WhatsApp](https://wa.me/5561999118365)
 
